@@ -10,10 +10,11 @@ I am a Medical Student and AI Engineer focused on applying technology to healthc
 
 ### Tech Stack & Skills
 
-| Applied AI (The Brain) | Automation & Engineering (The Hands) |
+| Applied AI (The Brain) | Automation (The Hands) |
 | :--- | :--- |
-| ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) |
-| **Focus:** Computer Vision (CNNs), Data Analysis, Predictive Modeling | **Focus:** AI-Assisted Development, Webhooks, Vercel, n8n, API Integration |
+| ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) | ![n8n](https://img.shields.io/badge/n8n-FF655A?style=flat&logo=n8n&logoColor=white) ![Make.com](https://img.shields.io/badge/Make.com-6f42c1?style=flat&logo=make&logoColor=white) |
+| ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) | ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat&logo=zapier&logoColor=white) ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=flat&logo=airtable&logoColor=white) |
+| **Focus:** Computer Vision (CNNs), Data Analysis, Predictive Modeling | **Focus:** AI Agents, Webhooks, API Integration, System Orchestration |
 
 ---
 
@@ -67,13 +68,6 @@ A specialized Deep Learning system utilizing Convolutional Neural Networks (CNN)
 
 ---
 
-### Connect
-* **X (Twitter):** [@atiatunnnasir](https://x.com/atiatunnnasir)
-* **Email:** obananob91@gmail.com
-- Break into remote AI/ML internships & global hackathons
-- Use tech to transform African healthcare and agriculture
-
----
 
 ## 📫 Let’s Connect!
 - GitHub: [@Obananob](https://github.com/Obananob)

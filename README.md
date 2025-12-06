@@ -1,4 +1,4 @@
-- # 👋 Hi, I'm Oni-Bashir Atiatunnasir Arike (Atia)
+- # 👋 Hi, I'm Oni-Bashir Atiatunnasir Arike 
 
 ### 💻 AI/ML Enthusiast | 📊 Data Scientist in Training | ⚕️ HealthTech Innovator
 
@@ -11,6 +11,10 @@ I'm a passionate emerging techie with a medical background, currently diving dee
 - 🤰 **MATAI**: A maternal health risk classifier built during the HelpMum Hackathon 2025
 
 ---
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Obananob&show_icons=true&theme=radical" alt="Obananob's Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Obananob&layout=compact&theme=radical" alt="Top Langs" />
+</div>
 
 ## 📚 Ongoing Learning & Certifications:
 - 3MTT DeepTech Ready Programme (AI/ML)
@@ -45,8 +49,3 @@ I'm a passionate emerging techie with a medical background, currently diving dee
 
 ⭐ **Fun fact:** I love mixing code with creativity — and believe AI should *solve real-life problems*, not just pass benchmarks.
 
-
-<!---
-Obananob/Obananob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
